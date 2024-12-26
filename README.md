@@ -43,6 +43,4 @@ The dataset, "blogs.csv", consists of blog posts along with their associated cat
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-Good luck, and we look forward to your insightful analysis of the blog posts dataset!
